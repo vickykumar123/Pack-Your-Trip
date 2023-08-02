@@ -4,6 +4,9 @@
 Live Deployment:: https://packmytrip.netlify.app/ 
 
 This app lets you pack the trip items. Built with ReactJS.
+### `npm run`
+To install all the node modules required for the react project.
+
 ### `npm start`
 
 Runs the app in the development mode.\
